@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
   printf("Hello World");
-  ///Print HelloWorld Withourt ;
+  ///Print HelloWorld Without ;
   if(printf("Hello World")){}
 }
